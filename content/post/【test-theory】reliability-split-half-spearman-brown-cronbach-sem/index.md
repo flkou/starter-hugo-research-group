@@ -24,8 +24,13 @@ image:
 
 * mean of all possible split-half coefficients, corrected by Spearman-Brown
 * correlation coefficients between split-halves = reliability coefficient = $\frac{σ\_{T}^2}{σ\_{X}^2}$
-* formula: ($\frac{}{}$)(1-$\frac{}{}$)
+* formula: ($\frac{N}{N-1}$)(1-$\frac{Σσ_{j}^2}{σ^2}$)
+
+  * number of items: N
+  * vairance of all items: $Σσ_{j}^2$
+  * variance of total scores: $Σσ_^2$
+* alternative formula: $\frac{N^{2}\frac{ΣΣcov(i, j)}{N(N-1)}}{σ_{X}^2}$ (i≠j?)
 
 $\frac{}{}$
 
-σ_{}^2
+σ^2
