@@ -20,10 +20,12 @@ image:
 * shorter tests are generally less reliable
 * formula: $\frac{nr}{1+(n-1)r}$, $\frac{2r}{1+r}$ when n = 2 (i.e., split-half)
 
-### Cronbach’s Alpha
+### Cronbach’s Alpha (or tau-equivalent reliability)
 
 * mean of all possible split-half coefficients, corrected by Spearman-Brown
-* correlation coefficients between split-halves = reliability coefficient = 
-* formula: ()
-*
-*
+* correlation coefficients between split-halves = reliability coefficient = $\frac{σ\_{T}^2}{σ\_{X}^2}$
+* formula: ($\frac{}{}$)(1-$\frac{}{}$)
+
+$\frac{}{}$
+
+σ_{}^2
