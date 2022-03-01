@@ -29,8 +29,9 @@ image:
   * number of items: N
   * vairance of item i: $Σσ_{i}^2$
   * variance of total scores: $σ_{X}^2$
-* alternative formula (Cho, [2016](https://doi.org/10.1177/1094428116656239), p. 13): $\frac{N^{2}\frac{ΣΣσ\_{i, j}}{N(N-1)}}{σ\_{X}^2}$ = $\frac{σ\_{T}^2}{σ\_{X}^2}$ (i≠j)
+* alternative formula (Cho, [2016](https://doi.org/10.1177/1094428116656239), p. 13): $\frac{N^{2}\frac{ΣΣσ\_{i, j}}{N(N-1)}}{σ\_{X}^2}$ = ($\frac{N}{N-1}$)($\frac{ΣΣσ\_{i, j}}{σ\_{X}^2}$) = $\frac{σ\_{T}^2}{σ\_{X}^2}$ (i≠j)
 
+  * $σ\_{X}^2$ = Σσ\_{i}^2 + ΣΣσ_{i, j}
   * variance explained by inter-item covariance is $σ_{T}^2$
   * variance not explained by inter-item covariance, which is $Σ(σ\_{i}^2-\frac{ΣΣσ\_{i, j}}{N(N-1)})$, is $σ_{e}^2$
 * Cronbach's alpha is derived under the assumption of tau-equivalence
