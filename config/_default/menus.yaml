@@ -4,14 +4,14 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Tour
-    url: tour
+  - name: About
+    url: /author/feng-lung-kou-%E6%9F%AF%E7%81%83%E9%9A%86/
     weight: 10
   - name: Posts
     url: post
     weight: 20
-  - name: People
-    url: people
+  - name: Tour
+    url: tour
     weight: 30
   - name: Events
     url: event
