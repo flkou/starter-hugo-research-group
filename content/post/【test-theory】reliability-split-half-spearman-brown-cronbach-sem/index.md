@@ -24,7 +24,7 @@ image:
 
 * mean of all possible split-half coefficients, corrected by Spearman-Brown
 * correlation coefficients between split-halves = reliability coefficient = $\frac{σ\_{T}^2}{σ\_{X}^2}$
-* formula: ($\frac{N}{N-1}$)(1-$\frac{Σσ\_{i}^2}{σ\_{X}^2}$)
+* formula: ($\frac{N}{N-1}$)(1-$\frac{Σσ\_{i}^2}{σ\_{X}^2}$) = ($\frac{N}{N-1}$)($\frac{σ\_{X}^2-Σσ\_{i}^2}{σ_{X}^2}$)
 
   * number of items: N
   * vairance of item i: $Σσ_{i}^2$
