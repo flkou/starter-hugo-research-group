@@ -24,12 +24,12 @@ image:
 
 * mean of all possible split-half coefficients, corrected by Spearman-Brown
 * correlation coefficients between split-halves = reliability coefficient = $\frac{σ\_{T}^2}{σ\_{X}^2}$
-* formula: ($\frac{N}{N-1}$)(1-$\frac{Σσ_{j}^2}{σ^2}$)
+* formula: ($\frac{N}{N-1}$)(1-$\frac{Σσ\_{j}^2}{σ\_{X}^2}$)
 
   * number of items: N
   * sum of vairance of all items: $Σσ_{j}^2$
-  * variance of total scores: $σ^2$
-* alternative formula: $\frac{N^{2}\frac{ΣΣσ_{i, j}}{N(N-1)}}{σ^2}$ (i≠j)
+  * variance of total scores: $σ_{X}^2$
+* alternative formula: $\frac{N^{2}\frac{ΣΣσ\_{i, j}}{N(N-1)}}{σ\_{X}^2}$ = $\frac{σ\_{T}^2}{σ\_{X}^2}$ (i≠j)
 * Cronbach's alpha is derived under the assumption of tau-equivalence
 
 $\frac{}{}$
