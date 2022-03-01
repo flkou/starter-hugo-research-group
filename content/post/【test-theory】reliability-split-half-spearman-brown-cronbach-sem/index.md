@@ -27,9 +27,10 @@ image:
 * formula: ($\frac{N}{N-1}$)(1-$\frac{Σσ_{j}^2}{σ^2}$)
 
   * number of items: N
-  * vairance of all items: $Σσ_{j}^2$
+  * sum of vairance of all items: $Σσ_{j}^2$
   * variance of total scores: $σ^2$
 * alternative formula: $\frac{N^{2}\frac{ΣΣσ_{i, j}}{N(N-1)}}{σ^2}$ (i≠j)
+* Cronbach's alpha is derived under the assumption of tau-equivalence
 
 $\frac{}{}$
 
