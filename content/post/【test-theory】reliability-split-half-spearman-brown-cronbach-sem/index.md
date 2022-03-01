@@ -29,7 +29,7 @@ image:
   * number of items: N
   * vairance of all items: $Σσ_{j}^2$
   * variance of total scores: $σ^2$
-* alternative formula: $\frac{N^{2}\frac{ΣΣcov(i, j)}{N(N-1)}}{σ_{X}^2}$ (i≠j?)
+* alternative formula: $\frac{N^{2}\frac{ΣΣcov(i, j)}{N(N-1)}}{σ_{X}^2}$ (i≠j)
 
 $\frac{}{}$
 
