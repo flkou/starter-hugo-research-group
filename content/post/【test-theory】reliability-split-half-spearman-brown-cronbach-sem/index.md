@@ -13,7 +13,7 @@ image:
 ### Split-Half Reliability
 
 * Two halves may not be parallel
-* Toefficient depends on the grouping of items
+* Coefficient depends on the grouping of items
 
 ### Spearman-Brown
 
