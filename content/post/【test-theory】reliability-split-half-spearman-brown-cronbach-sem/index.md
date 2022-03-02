@@ -45,4 +45,3 @@ image:
   * SD: standard deviation of the test score = $σ_{X}$
   * r: reliability coefficient
 * 95% CI of a test score = test score ± 2*SEM
-* Standard error of the difference:
