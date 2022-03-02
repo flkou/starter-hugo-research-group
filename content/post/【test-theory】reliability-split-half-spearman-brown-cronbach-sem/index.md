@@ -15,7 +15,7 @@ image:
 * Two halves may not be parallel
 * Coefficient depends on the grouping of items
 
-### Spearman-Brown
+### Spearman-Brown Formula
 
 * Shorter tests are generally less reliable, thus the need of correction
 * Formula: $\frac{nr}{1+(n-1)r}$, $\frac{2r}{1+r}$ when n = 2 (i.e., split-half)
@@ -34,4 +34,15 @@ image:
   * $σ\_{X}^2$ = Σσ\_{i}^2 + ΣΣσ_{i, j}
   * variance explained by inter-item covariance is $σ_{T}^2$
   * variance not explained by inter-item covariance, which is $Σ(σ\_{i}^2-\frac{ΣΣσ\_{i, j}}{N(N-1)})$, is $σ_{e}^2$
-* Cronbach's alpha is derived under the assumption of tau-equivalence
+* Cronbach's alpha is derived under the assumption of tau-equivalence. If the test is not tau-equivalent, Cronbach's alpha will be an underestimate of reliability.
+
+### Standard Error of Measurement (SEM)
+
+* Standard deviation of an examinee's "hypothetical" test scores after a large number of parallel tests are administered
+* A property of the test, not the examinee
+* SEM = SD$\sqrt{1-r}$
+
+  * SD: standard deviation of the test score
+  * r: reliability coefficient
+* 95% CI of a test score = test score ± 2*SEM
+* Standard error of the difference:
