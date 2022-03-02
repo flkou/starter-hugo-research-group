@@ -40,9 +40,9 @@ image:
 
 * Standard deviation of an examinee's "hypothetical" test scores after a large number of parallel tests are administered
 * A property of the test, not the examinee
-* SEM = SD$\sqrt{1-r}$
+* SEM = SD$\sqrt{1-r}$ = $σ_{e}$
 
-  * SD: standard deviation of the test score
+  * SD: standard deviation of the test score = $σ_{X}$
   * r: reliability coefficient
 * 95% CI of a test score = test score ± 2*SEM
 * Standard error of the difference:
