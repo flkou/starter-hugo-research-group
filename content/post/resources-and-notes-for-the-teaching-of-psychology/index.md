@@ -13,3 +13,5 @@ image:
 Society for the Teaching of Psychology ([Facebook Group](https://www.facebook.com/groups/teachpsych/))
 
 Teach Psych Science (<https://teachpsychscience.org/>): Search with "Exemplar Study" to find great papers and associated activities suitable for use in undergraduate statistics/methods classes.
+
+"The pen is mightier than the keyboard: Advantages of longhand over laptop note taking" by Mueller & Oppenheimer ([2014](https://doi.org/10.1177/0956797618781773)): Great for demonstrating t tests and ANOVAs to undergraduate students.
