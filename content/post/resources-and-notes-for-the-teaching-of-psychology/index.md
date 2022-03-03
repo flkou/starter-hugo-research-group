@@ -12,4 +12,4 @@ image:
 ---
 Society for the Teaching of Psychology ([Facebook Group](https://www.facebook.com/groups/teachpsych/))
 
-Teach Psych Science (<https://teachpsychscience.org/>): Search with "Exemplar Study" to find great papers and associated activities suitable for use in introductory statistics classes.
+Teach Psych Science (<https://teachpsychscience.org/>): Search with "Exemplar Study" to find great papers and associated activities suitable for use in undergraduate statistics/methods classes.
