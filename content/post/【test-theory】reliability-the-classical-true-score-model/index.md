@@ -32,7 +32,7 @@ image:
 * Reliabliity index = $\frac{σ\_{T}}{σ\_{X}}$
 
   * is the correlation coefficient between X and T
-  * cor(X,T) = $\frac{Σ(X{i}-μX)(T{i}-μT)}{Nσ\_{X}σ\_{T}}$ = $\frac{Σ(T{i}-μT)^2}{Nσ\_{X}σ\_{T}}$ + $\frac{Σ(T{i}-μT)(e{i}-μe)}{Nσ\_{X}σ\_{T}}$ = $\frac{σ\_{T}^2}{σ\_{X}σ\_{T}}$ = $\frac{σ\_{T}}{σ_{X}}$
-
-    *
+  * cor(X,T) = $\frac{Σ(X{i}-μX)(T{i}-μT)}{Nσ\_{X}σ\_{T}}$ = $\frac{Σ(T{i}-μT)^2}{Nσ\_{X}σ\_{T}}$ + $\frac{Σ(T{i}-μT)(e{i}-μe)}{Nσ\_{X}σ\_{T}}$ = $\frac{σ\_{T}^2}{σ\_{X}σ\_{T}}$ = $\frac{σ\_{T}}{σ_{X}}$\
+    (substituting X for T+e)
+  *
 *
