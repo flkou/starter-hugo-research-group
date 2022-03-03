@@ -34,5 +34,13 @@ image:
   * is the correlation coefficient between X and T
   * cor(X,T) = $\frac{Σ(X{i}-μX)(T{i}-μT)}{Nσ\_{X}σ\_{T}}$ = $\frac{Σ(T{i}-μT)^2}{Nσ\_{X}σ\_{T}}$ + $\frac{Σ(T{i}-μT)(e{i}-μe)}{Nσ\_{X}σ\_{T}}$ = $\frac{σ\_{T}^2}{σ\_{X}σ\_{T}}$ = $\frac{σ\_{T}}{σ_{X}}$\
     (substituting X for T+e)
-  *
-*
+  * reliabliity index = $\sqrt{reliability \ coefficient}$
+* Reliability coefficient = $\frac{σ\_{T}^2}{σ\_{X}^2}$
+
+  * is the correlation between scores on parallel tests
+  * parallel tests:
+
+    * same true score for all examinee on all items (& thus on both tests)
+    * error variance equal for the two forms
+  * reliability coefficient = (reliabliity index)^2
+* cor(X, T) > cor(scores on parallel tests)
