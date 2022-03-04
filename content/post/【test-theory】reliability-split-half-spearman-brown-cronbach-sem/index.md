@@ -41,8 +41,8 @@ image:
 * Standard deviation of an examinee's "hypothetical" test scores after a large number of parallel tests are administered
 * A property of the test, not the examinee
 
-  * But not exactly, due to the problem of "restriction of range"
-  * Thus, when reporting reliability, we usually report the reliability coefficient in a certain group, e.g., the alpha is .87 in Taiwanese femail employee.
+  * reliability is not, due to the problem of "restriction of range"
+  * when reporting reliability, we usually report the reliability coefficient in a certain group, e.g., the alpha is .87 in Taiwanese femail employee.
 * SEM = SD$\sqrt{1-r}$ = $σ_{e}$
 
   * SD: standard deviation of the test score = $σ_{X}$
