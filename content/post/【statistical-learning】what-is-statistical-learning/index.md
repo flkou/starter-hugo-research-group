@@ -60,4 +60,17 @@ image:
 * **In the Classification Setting**
 
   * error rate: $\frac{1}{n}Σ(yᵢ≠\hat{yᵢ})$
-  *
+  * Bayes classifier "assigns each observation to the most likely class,  given its predictor values"
+
+    * Bayes decision boundary
+    * Bayes error rate = 1 - E(MaxP(Y = j|X))
+
+      * analogous to  the irreducible error
+    * Bayes classifier is not possible in real world
+  * K-nearest neighbors (KNN) classifier:
+
+    * maximizes P(Y = j|X = x) = $\frac{1}{K}Σ(I(yᵢ = j))$
+    * $\frac{1}{K}$ corresponds to model flexibility
+
+      * low K: low bias but high variance
+      * high K: low-variance but high-bias
