@@ -70,7 +70,11 @@ image:
   * K-nearest neighbors (KNN) classifier:
 
     * maximizes P(Y = j|X = x) = $\frac{1}{K}Σ(I(yᵢ = j))$
-    * $\frac{1}{K}$ corresponds to model flexibility
+    * $\frac{1}{K}$ corresponds to model flexibility (FIGURE 2.16)
 
       * low K: low bias but high variance
       * high K: low-variance but high-bias
+
+
+
+James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021). Statistical learning. In [An introduction to statistical learning](https://www.statlearning.com/) (pp. 15-57). Springer, New York, NY. ISO 690
