@@ -53,3 +53,5 @@ image:
 * **Bias-Variance Trade-Off**
 
   * MSE = $E\[y − \hat{f}(X)]^2$ = $Var(\hat{f}(x))+\[Bias(\hat{f}(x))]^2+Var(ϵ)$
+  * variance: how much $\hat{f}(x)$ would change when different training data is used
+  * bias: error when model is applied to real-life problems
