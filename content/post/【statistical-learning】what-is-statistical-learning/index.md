@@ -41,4 +41,10 @@ image:
   * semi-supervised: when some x have associated y, and others don't
 * **Regression Versus Classification**
 
-  *
+  * quantitative vs. categorical response
+  * some methods can be used for both, e.g., K-NN & boosting
+* **Assessing Model Accuracy**
+
+  * a common measure: mean squared error (MSE)
+
+    * MSE = $\frac{1}{n}Σ(yᵢ-\hat{f}(xᵢ))^2$
