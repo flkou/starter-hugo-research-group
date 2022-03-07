@@ -11,7 +11,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-* Bias-Variance Trade-Of**Y = f(X) + ϵ**
+* **Y = f(X) + ϵ**
 
   * statistical learning = estimating f()
 
@@ -55,3 +55,9 @@ image:
   * MSE = $E\[y − \hat{f}(X)]^2$ = $Var(\hat{f}(x))+\[Bias(\hat{f}(x))]^2+Var(ϵ)$
   * variance: how much $\hat{f}(x)$ would change when different training data is used
   * bias: error when model is applied to real-life problems
+  * generally, more flexible methods result in less bias & more variance
+  * mathematical [derivation](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff#Derivation) for the trade-off relationship
+* **In the Classification Setting**
+
+  * error rate: $\frac{1}{n}Σ(yᵢ≠\hat{yᵢ})$
+  *
