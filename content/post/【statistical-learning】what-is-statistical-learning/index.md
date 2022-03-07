@@ -11,7 +11,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-* **Y = f(X) + ϵ**
+* Bias-Variance Trade-Of**Y = f(X) + ϵ**
 
   * statistical learning = estimating f()
 
@@ -48,3 +48,8 @@ image:
   * a common measure: mean squared error (MSE)
 
     * MSE = $\frac{1}{n}Σ(yᵢ-\hat{f}(xᵢ))^2$
+    * goal: minimal test MSE, rather than training MSE
+    * overfitting: too flexible model resulting in larger test MSE
+* **Bias-Variance Trade-Off**
+
+  * MSE = $E\[y − \hat{f}(X)]^2$ = $Var(\hat{f}(x))+\[Bias(\hat{f}(x))]^2+Var(ϵ)$
