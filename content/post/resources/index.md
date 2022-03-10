@@ -22,6 +22,8 @@ image:
 
 [Beall’s List – of Potential Predatory Journals and Publishers](https://beallslist.net/)
 
+[Anchor Labels for Chinese Rating Scales](https://scholars.lib.ntu.edu.tw/handle/123456789/42107)
+
 
 
 #### Teachers I’ve Workded With
