@@ -20,3 +20,11 @@ semTools::reliability(cfafit) # AVE
 cor <- lavInspect(cfafit,"cor.lv")
 round(cor^2,2) # squared correlation
 ```
+
+
+
+In addition, we can estimate the 95% CI for each correlations between constructs.
+
+```
+summary(cfafit, ci=T)
+```
