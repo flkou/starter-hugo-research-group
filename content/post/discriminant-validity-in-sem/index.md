@@ -21,9 +21,7 @@ cor <- lavInspect(cfafit,"cor.lv")
 round(cor^2,2) # squared correlation
 ```
 
-
-
-In addition, we can estimate the 95% CI for each correlations between constructs.
+In addition, we can estimate the 95% CI for each correlations between constructs, to see if they include 1.
 
 ```
 summary(cfafit, ci=T)
