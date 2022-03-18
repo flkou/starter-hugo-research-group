@@ -43,4 +43,6 @@ image:
 * the classical theory discovers pre-existing relationships
 * relating the hypothesized quantitative attributes to observable quantities within some theoretical framework (factor analysis can be an example)
 
+Reflective vs. formative measurement
+
 Hand, D.J. (1996). [Statistics and the theory of measurement](https://doi.org/10.2307/2983326). Journal of the Royal Statistical Society, Series A, 159, 445-492.
