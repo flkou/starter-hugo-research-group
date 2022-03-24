@@ -13,9 +13,10 @@ image:
 * The spectrum from descriptive (exploratory) to interpretative (interrogative, theorized)
 * Thematic analysis (TA, 主題分析)
 
-  * Theme: a central organizing concept
+  * Theme: a "patterned" response or meaning
 
-    * different from a "feature": 
+    * different from a "feature"
+    * not about quantity, e.g., frequency of sth coming up
   * Only provides method for analysis, without prescribing methods of data collection or ontological framework.
   * Seeks to identify "themes" across a dataset.
   * Varieties:
