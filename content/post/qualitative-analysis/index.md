@@ -10,7 +10,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-* The spectrum from descriptive to interpretative
+* The spectrum from descriptive (exploratory) to interpretative (interrogative, theorized)
 * Thematic analysis (TA, 主題分析)
 
   * Theme: a central organizing concept
