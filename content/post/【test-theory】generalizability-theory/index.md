@@ -32,3 +32,6 @@ image:
   * After variances have been partitioned, calculate generalizability coefficient = $\frac{σ_{p}^2}{*average* observed score variance}$
 
     * the formula of averageobserved score variance depends on the study design (e.g., number of facets, whether conditions are crossed and/or nested)
+* Standard Error of Measurement in G theory = sqrt(error variance)
+
+  * estimator (formula) of error variance depends on study design, and  whether absolute (e.g., criterion-referenced test) or comparative (e.g., norm-referenced test) is used
