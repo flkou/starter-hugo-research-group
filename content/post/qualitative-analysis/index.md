@@ -1,10 +1,10 @@
 ---
-title: Qualitative Analysis
+title: 【Qualitative Research】Qualitative Analysis
 date: 2022-03-16T09:26:35.934Z
 draft: false
 featured: false
 tags:
-  - Qualitative
+  - Qualitative Research
 image:
   filename: featured
   focal_point: Smart
