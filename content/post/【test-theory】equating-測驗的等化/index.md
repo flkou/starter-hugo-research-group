@@ -16,4 +16,8 @@ image:
 * **Operationalization**: To find a function y = f(x), transforming test score x from one test to score y from another test.
 
   * Turning x into standardized $z\_{x}$, which we assume to be the same as $z\_{y}$, then transforming $z_{y}$ to y.
-  * Y = $\frac{{σ\_{y}}{{σ\_{x}}*(x-{μ\_{X}})+{μ\_{y}}$
+  * Y = $\frac{σ\_{y}}{σ\_{x}}*(x-{μ\_{X}})+{μ\_{y}}$
+
+    * σ_{y}
+    * σ_{x}
+    * x-{μ_{X}}
