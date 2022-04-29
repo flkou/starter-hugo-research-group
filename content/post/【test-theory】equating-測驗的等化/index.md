@@ -22,7 +22,19 @@ image:
     * Why is there a difference of ${r_{xy}}$?
 
       * Note that data is paired in Design B (thus allowing for regression analysis), whike data from Design A is not.
+      * ${r\_{xy}}$ is a manifest of "regression toward the mean". The "predicted y" will have a smaller variance (by ${r\_{xy}^2}$), thus harder to score high and low, leading to a concern of fairness.
 * "**Experimental design**"to determine the function y = f(x).
 
   * Design A: Randomly assign subjects to two forms.
   * Design B: All subjects tested on two form, with counterbalance.
+  * Design C: Subjects assigned to two forms (i.e., x & y) nonrandomly, while all subjects are subjected to a second common test (i.e., z). The common test score is used to equate the scores on two forms.
+* In **Design C**:
+
+  * ${z\_{x|z}}$ and ${z\_{y|z}}$ are assumed to be the same, and used for euqating.
+  * Restriction of range may be present. ${r\_{xz}}$ and ${r\_{yz}}$ are influenced. However, (regression)
+  * (the formula)
+* All mentioned above are "linear equating". What's the shortcomings of this method, as compared to "(equi)percentile equating"?
+* How and when are designs A, B, C used in real world settings?
+* Note: all symbols above should have been written as estimates (in samples), rather than parameters.t5
+
+Crocker, L., & Algina, J. (1986). Equating scores from different different tests. In  [Introduction to classical and modern test theory](https://books.google.com.tw/books/about/Introduction_to_Classical_and_Modern_Tes.html?id=tfgkAQAAMAAJ&redir_esc=y). Holt, Rinehart and Winston.
