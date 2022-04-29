@@ -19,7 +19,10 @@ image:
   * Y = $\frac{σ\_{y}}{σ\_{x}}*(x-{μ\_{X}})+{μ\_{y}}$
 
     * In comparison, regression function is Y = ${r\_{xy}}\frac{σ\_{y}}{σ\_{x}}*(x-{μ\_{X}})+{μ_{y}}$
-* "**Experimental design**": Determining the function y = f(x).
+    * Why is there a difference of ${r_{xy}}$?
+
+      * Note that data is paired in Design B (thus allowing for regression analysis), whike data from Design A is not.
+* "**Experimental design**"to determine the function y = f(x).
 
   * Design A: Randomly assign subjects to two forms.
-  * Design B:
+  * Design B: All subjects tested on two form, with counterbalance.
