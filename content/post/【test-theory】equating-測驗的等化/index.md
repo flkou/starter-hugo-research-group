@@ -18,7 +18,7 @@ image:
   * Turning x into standardized $z\_{x}$, which we assume to be the same as $z\_{y}$, then transforming $z_{y}$ to y.
   * Y = $(\frac{σ\_{y}}{σ\_{x}})*(x-{μ\_{X}})+{μ\_{y}}$
 
-    * In comparison, regression function is Y = ${r\_{xy}}(\frac{σ\_{y}}{σ\_{x}})*(x-{μ\_{X}})+{μ_{y}}$
+    * In comparison, regression function is Y = ${r\_{xy}}\*(\frac{σ\_{y}}{σ\_{x}})\*(x-{μ\_{X}})+{μ_{y}}$
     * Why is there a difference of ${r_{xy}}$?
 
       * Note that data is paired in Design B (thus allowing for regression analysis), whike data from Design A is not.
