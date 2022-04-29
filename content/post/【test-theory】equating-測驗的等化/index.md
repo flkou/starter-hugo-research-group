@@ -18,6 +18,8 @@ image:
   * Turning x into standardized $z\_{x}$, which we assume to be the same as $z\_{y}$, then transforming $z_{y}$ to y.
   * Y = $\frac{σ\_{y}}{σ\_{x}}*(x-{μ\_{X}})+{μ\_{y}}$
 
-    * σ_{y}
-    * σ_{x}
-    * x-{μ_{X}}
+    * In comparison, regression function is Y = ${r\_{xy}}\frac{σ\_{y}}{σ\_{x}}*(x-{μ\_{X}})+{μ_{y}}$
+* "**Experimental design**": Determining the function y = f(x).
+
+  * Design A: Randomly assign subjects to two forms.
+  * Design B:
