@@ -24,7 +24,7 @@ image:
 
 [Anchor Labels for Chinese Rating Scales](https://scholars.lib.ntu.edu.tw/handle/123456789/42107)
 
-
+[VOSviewer - Visualizing scientific landscapes](https://www.vosviewer.com/)
 
 #### Teachers I’ve Workded With
 
@@ -33,8 +33,6 @@ image:
 [Wan-Jing Chang (張婉菁)](https://sites.google.com/view/aprilchang0408/home), National Tsing Hua University, Taiwan
 
 [David McConville (莫西大衛)](https://sites.google.com/view/cvdavidmc/home), National Sun Yat-sen University, Taiwan
-
-
 
 #### Groups
 
