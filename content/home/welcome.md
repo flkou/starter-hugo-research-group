@@ -12,6 +12,6 @@ design:
 ---
 <br>
 
-柯灃隆目前是國立成功大學心理學系學士班學生，及工商心理學領域兼任研究助理。  
+柯灃隆目前是國立成功大學心理學系士班學生，及工商心理學領域兼任研究助理。  
 
 Feng-Lung Kou “Rex” is currently an undergraduate student at the Department of Psychology, National Cheng Kung University (Taiwan), and a research assistant in the field of Industrial & Organizational Psychology.
