@@ -19,3 +19,5 @@ Teach Psych Science (<https://teachpsychscience.org/>): Search with "Exemplar St
 Papers to use as examples in undergraduate statistics/methods classes: Mueller & Oppenheimer ([2014](https://doi.org/10.1177/0956797618781773)), Elliot et al. ([2010](https://doi.org/10.1037/a0019689))
 
 Visual demonstration of IRT ([Wolfram Demonstrations](https://demonstrations.wolfram.com/ItemCharacteristicCurves/))
+
+Demonstrating statistical concepts ([Seeing Theory](https://seeing-theory.brown.edu/))
