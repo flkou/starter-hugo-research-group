@@ -30,13 +30,11 @@ image:
 
 [Monte Carlo method for assessing multilevel Mediation](https://quantpsy.org/medmc/medmc111.htm)
 
-#### Professors I’ve Workded With
+[P﻿ennState QuantDev Tutorials](https://quantdev.ssri.psu.edu/tutorials)
 
-[Li-Fang Chou (周麗芳)](https://researchoutput.ncku.edu.tw/zh/persons/li-fang-chou), National Cheng Kung University, Taiwan
+[R T﻿utorial for Multilevel Analysis](https://commresearch.arizona.edu/classes/comm640/640_Book/docs/)
 
-[Wan-Jing Chang (張婉菁)](https://sites.google.com/view/aprilchang0408/home), National Tsing Hua University, Taiwan
-
-[David McConville (莫西大衛)](https://sites.google.com/view/cvdavidmc/home), National Sun Yat-sen University, Taiwan
+R﻿ packages for multilevel mediation: multilevelmediation & mlma
 
 #### Groups
 
